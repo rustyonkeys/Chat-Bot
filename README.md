@@ -14,7 +14,3 @@ This is a simple yet powerful AI chatbot built using **LangChain** and **Ollama*
 ✅ Uses **LangChain's ChatPromptTemplate** for structured prompts  
 ✅ Simple and lightweight  
 
-## 📌 Installation  
-1️⃣ **Install Ollama** (if not installed):  
-   ```bash
-   curl -fsSL https://ollama.com/install.sh | sh
